@@ -6,6 +6,7 @@
 - [Ronak Singh](https://github.com/RonakSingh2006)
 - [Ansh Gupta] (https://github.com/Ansh-Gupta0310)
 - [Raj Soni](https://github.com/rajsonnii)
+- [Kunal Jindal] (https://github.com/KunalJindal19)
 - [Karan Dhiman](https://github.com/karandhiman12)
 - [Gurparsad Singh](https://github.com/gprathour)
 - [Srinivas Batthula](https://github.com/srinivas-batthula)
